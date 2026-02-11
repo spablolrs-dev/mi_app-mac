@@ -270,3 +270,5 @@ print(" - ESPACIO: pausa/reanuda")
 print(" - a: retrocede 1 segundo (más confiable que flechas)")
 print(" - d: adelanta 1 segundo (más confiable que flechas)")
 print(" - ESC: salir")
+
+#final del codigo
