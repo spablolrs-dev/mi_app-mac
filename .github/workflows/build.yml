@@ -3,7 +3,7 @@ name: Build Mac App
 on:
   push:
     branches: [ "principal" ]
-
+  workflow_dispatch:
 jobs:
   build-mac:
     runs-on: macos-latest
